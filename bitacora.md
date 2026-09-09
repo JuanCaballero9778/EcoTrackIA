@@ -117,3 +117,18 @@ Se validaron las respuestas ante:
 - Entradas que no contienen actividades válidas.
 
 En estos casos, la aplicación despliega avisos informativos de forma amigable y mantiene la ejecución sin errores críticos.
+
+### Video Demo
+
+[https://youtu.be/WGxCJNlNatQ](https://youtu.be/WGxCJNlNatQ)
+
+---
+
+## 7. Presentación del Producto y Aceleración con "Vibe Coding"
+
+El desarrollo de **EcoTrack AI** demostró cómo el enfoque de **Vibe Coding** permite pasar de la idea al Producto Mínimo Viable (MVP) funcional en una fracción del tiempo tradicional. 
+
+### Aceleración frente a Métodos Tradicionales
+- **Dirección vs. Sintaxis:** En lugar de invertir horas escribiendo código repetitivo de formularios, configurando rutas de Next.js o redactando expresiones regulares complejas desde cero, el rol se desplazó hacia la **arquitectura y la dirección creativa**. La IA asumió la ejecución de la sintaxis mientras que la supervisión humana guio la lógica de negocio.
+- **Iteración Instantánea:** La corrección de errores de tipado, la estructuración modular (`lib/parser`, `lib/calculator`) y la adaptación del diseño visual ecológico se resolvieron mediante lenguaje natural y prompts de control, reduciendo drásticamente el tiempo de depuración.
+- **Despliegue Rápido:** Gracias a la co-programación asistida, el prototipo pasó de la conceptualización inicial a un entorno de producción en vivo (Vercel) de forma fluida, cumpliendo con todos los requerimientos del Capstone de manera eficiente.
